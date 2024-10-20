@@ -23,6 +23,6 @@ Step5:Enter the Tavily API and OpenAI API in the app.py file and save it
 
 Step6:Run the app.py file by commanding python app.py
 
-Step7: Yay! finally you did and now explore the search capabities with openai
+Step7: Yay! finally you did and now explore the search capabilities with openai
 
 ***Thankyou Reader & Coder***
