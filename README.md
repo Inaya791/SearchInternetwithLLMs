@@ -1,7 +1,9 @@
 **How to enable or give search capability to LLMs?**
 We usually face that LLMs are not giving updated or recent information.So to give search capability to LLMS like OpenAI,Google,Claude AI.
+
 **Link:https://tavily.com/**
-I have used langchain and gradio web framework with  Tavily API and OpenAI API.
+I have used langchain and gradio web framework with Tavily API and OpenAI API.
+
 **How to use?**
 Step1: Clone the Repo by commanding git clone URL of this Repository
 Step2:Navigate to directory by commanding cd SearchInternetLLMs
