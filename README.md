@@ -3,7 +3,11 @@
 We usually face that LLMs are not giving updated or recent information.So to give search capability to LLMS like OpenAI,Google,Claude AI.
 
 **Link:https://tavily.com/**
-I have used langchain and gradio web framework with Tavily API and OpenAI API.
+
+**Elaboration:-**
+
+I have used langchain and gardio for web interface.
+I have used OpenAI API to refine the Tavily API data.
 
 **How to use?**
 
