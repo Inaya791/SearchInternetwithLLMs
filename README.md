@@ -6,7 +6,7 @@ We usually face that LLMs are not giving updated or recent information.So to giv
 
 **Elaboration:-**
 
-I have used langchain and gardio for web interface.
+I have used langchain and gradio for web interface.You can use streamlit,chainlit and flask for web interface.
 I have used OpenAI API to refine the Tavily API data.
 
 **How to use?**
